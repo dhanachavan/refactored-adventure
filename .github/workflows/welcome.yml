@@ -1,0 +1,4 @@
+name : welcome yaml
+on :
+ pull_request:
+   types: [opened]
